@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ApivideoApplication<apivideo>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "apivideo.apivideo.ApivideoApplication",
+            "projectName": "apivideo",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
